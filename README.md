@@ -7,7 +7,7 @@
 - Kiến trúc: Microservices;
 - Front-end: ReactJS;
 - Back-end: NodeJS - CI/CD;
-- Test: Unit Test.
+- Test: Unit Test.<br>
 <br>**Tư liệu tham khảo:**
 - https://www.facebook.com/1008957338/posts/10213768177491190/?d=n
 - https://www.facebook.com/1008957338/posts/10221294594606914/?d=n
