@@ -1,5 +1,5 @@
 # GR1
-**Người hướng dẫn:** Cô Nguyễn Thị Thu Trang, Anh Phạm Quang Minh.
+**Người hướng dẫn:** Cô Nguyễn Thị Thu Trang, Anh Phạm Quang Minh.  
 **Người thực hiện:** Nguyễn Đức Thịnh.
 **Tên đề tài:** Web dạy tiếng Việt VietStudy theo phương pháp ngữ âm học.
 **Mô tả:** Ứng dụng web VietStudy cung cấp môi trường học tập online,
