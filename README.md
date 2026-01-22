@@ -12,6 +12,7 @@
 - Front-end: ReactJS;
 - Back-end: NodeJS - CI/CD;
 - Test: Unit Test.
+
 **Tư liệu tham khảo:**
 - https://www.facebook.com/1008957338/posts/10213768177491190/?d=n,<br>
 - https://www.facebook.com/1008957338/posts/10221294594606914/?d=n<br>
